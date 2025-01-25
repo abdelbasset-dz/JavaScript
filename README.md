@@ -1,5 +1,7 @@
 # JavaScript
 
+JavaScript for web developers
+
 What is requested:
 
 1.	Write a function that takes an array of numbers and returns the average of all the even numbers. Use the filter() and reduce() array methods in your implementation.
